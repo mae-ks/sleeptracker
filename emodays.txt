@@ -1,0 +1,7 @@
+Sun : # 3 hr
+Mon : # 3 hr
+Tue : # 1 hr
+Wed : ##### 8 hr
+Thu : ## 5 hr
+Fri : #### 4 hr
+Sat : # 1 hr
