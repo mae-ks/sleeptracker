@@ -1,7 +1,7 @@
 
             >>> MAIN DSC <<<
 
-Hello, Prof Erty! This is a sleep-tracker application by Mae Kyaw San (@02983828). Everyday, program takes in data from user to calculate the
+This is a sleep-tracker application by Mae Kyaw San (@02983828). Everyday, program takes in data from user to calculate the
 optimal amount of sleep user should have to feel rested. Program can show details for the week in a chart. I added testing command lines for
 both Windows and Mac.
 
